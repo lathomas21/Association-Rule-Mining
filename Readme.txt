@@ -1,0 +1,1 @@
+The package arules needs to be downloaded. Also the working directory should be set to the file of which the data sets are in. 
